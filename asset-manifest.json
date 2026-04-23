@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rusheel-portfolio/static/css/main.e6532413.css",
+    "main.js": "/rusheel-portfolio/static/js/main.144a022d.js",
+    "index.html": "/rusheel-portfolio/index.html",
+    "main.e6532413.css.map": "/rusheel-portfolio/static/css/main.e6532413.css.map",
+    "main.144a022d.js.map": "/rusheel-portfolio/static/js/main.144a022d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6532413.css",
+    "static/js/main.144a022d.js"
+  ]
+}
